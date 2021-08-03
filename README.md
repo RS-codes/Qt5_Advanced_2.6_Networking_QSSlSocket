@@ -1,5 +1,7 @@
 # Qt5_Advanced_2.6_Networking_QSSlSocket
 
-#2.5 not available
+#Under Networking, QsslSocket discussed an
 
-#SourceCode to be added soon 
+#SourceCode added 
+
+#Note:2.5 not available
